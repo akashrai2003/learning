@@ -1,0 +1,10 @@
+{
+  "daily_sessions": 168,
+  "weeks": 24,
+  "core_hours": 408,
+  "unique_markdown_words_including_checklists": 31889,
+  "local_links": "all resolved",
+  "schedule": "all day IDs and time totals validated",
+  "model_manifest_example": "valid JSON",
+  "hardware_execution": "not performed; curriculum only"
+}

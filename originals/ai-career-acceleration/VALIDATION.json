@@ -1,0 +1,16 @@
+{
+  "daily_sessions": 112,
+  "weeks": 16,
+  "core_hours": 280,
+  "optional_start_date": "2026-10-23",
+  "optional_end_date": "2027-02-11",
+  "split_markdown_words_including_checklists": 29800,
+  "weekly_files": 16,
+  "post_briefs": 32,
+  "blank_activity_trackers": 7,
+  "internal_links": "resolved in split edition; converted to file-location text in combined edition",
+  "day_sequence": "validated 1 through 112; seven per week",
+  "csv_trackers": "headers validated; no fabricated activity rows",
+  "external_links": "core sources inspected; live availability and salaries require refresh",
+  "outbound_actions": "none; guide creation only"
+}

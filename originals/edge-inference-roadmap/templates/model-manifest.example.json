@@ -1,0 +1,15 @@
+{
+  "example_only": true,
+  "model_id": "replace-with-official-model-id",
+  "model_revision": "replace-with-pinned-revision",
+  "architecture": "replace-with-validated-architecture",
+  "artifact_format": "replace-with-format",
+  "quantization": "replace-with-quantization",
+  "runtime_commit": "replace-with-tested-commit",
+  "tokenizer_revision": "replace-with-tokenizer-revision",
+  "chat_template_id": "replace-with-template-hash-or-version",
+  "files": [],
+  "tested_device": "replace-with-phone-model-and-firmware",
+  "tested_backend": "replace-with-verified-backend",
+  "license_or_terms_url": "replace-with-official-terms-url"
+}
