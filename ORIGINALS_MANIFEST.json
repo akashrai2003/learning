@@ -1,0 +1,1506 @@
+{
+  "created": "2026-10-22",
+  "file_count": 250,
+  "files": [
+    {
+      "original_path": "ai-career-acceleration/01-strategy-and-role-fit.md",
+      "archived_path": "originals/ai-career-acceleration/01-strategy-and-role-fit.md",
+      "bytes": 5848,
+      "sha256": "a58b0895f6fc1177ac30784263a591e18e56a114a2042b9dad91a565e59710a0"
+    },
+    {
+      "original_path": "ai-career-acceleration/02-time-budget.md",
+      "archived_path": "originals/ai-career-acceleration/02-time-budget.md",
+      "bytes": 3892,
+      "sha256": "403475adf897089b179c1ba372a3a3f7a0e1d09186bdba3f83041ae56f4e3556"
+    },
+    {
+      "original_path": "ai-career-acceleration/03-first-14-days.md",
+      "archived_path": "originals/ai-career-acceleration/03-first-14-days.md",
+      "bytes": 2483,
+      "sha256": "c96c90ef627253c7336d22e8cf45f5f2ee109a77a0b246c0d2ae16ea5944c3d5"
+    },
+    {
+      "original_path": "ai-career-acceleration/04-week-index.md",
+      "archived_path": "originals/ai-career-acceleration/04-week-index.md",
+      "bytes": 1606,
+      "sha256": "101697172cd0e7d2fdbcd1a48853f94a5b49183d799d2ab6fac590435ac40f34"
+    },
+    {
+      "original_path": "ai-career-acceleration/COMPLETE-GUIDE.md",
+      "archived_path": "originals/ai-career-acceleration/COMPLETE-GUIDE.md",
+      "bytes": 216891,
+      "sha256": "f0e4aac2b353589f0f487609d581d2abe91eab1f97bec33b71d36f7892f4a4f7"
+    },
+    {
+      "original_path": "ai-career-acceleration/README.md",
+      "archived_path": "originals/ai-career-acceleration/README.md",
+      "bytes": 5285,
+      "sha256": "ff1ce96017d71212244fded8f1235e24a99db4c4f720236cd0215752dc00a93b"
+    },
+    {
+      "original_path": "ai-career-acceleration/VALIDATION.json",
+      "archived_path": "originals/ai-career-acceleration/VALIDATION.json",
+      "bytes": 645,
+      "sha256": "f50f659f9baddb2cb784bb208e407805f7b69c7131993e4d2443a8b901bfab83"
+    },
+    {
+      "original_path": "ai-career-acceleration/guides/compensation-and-offers.md",
+      "archived_path": "originals/ai-career-acceleration/guides/compensation-and-offers.md",
+      "bytes": 4391,
+      "sha256": "61c26670ab97e8637dc195427d62760b473c8805824635453fa4e740b8c91e83"
+    },
+    {
+      "original_path": "ai-career-acceleration/guides/content-calendar.md",
+      "archived_path": "originals/ai-career-acceleration/guides/content-calendar.md",
+      "bytes": 4053,
+      "sha256": "aa40d5dd5d1923d6cb414afae623f9e7a0cdef3f6f5577d3fd300074af0d58a4"
+    },
+    {
+      "original_path": "ai-career-acceleration/guides/funnel-and-review.md",
+      "archived_path": "originals/ai-career-acceleration/guides/funnel-and-review.md",
+      "bytes": 4081,
+      "sha256": "4975e6ddf4cf033b18fe02f4e8366966ef8d57b68630fc811ea39b758fccd45e"
+    },
+    {
+      "original_path": "ai-career-acceleration/guides/interviews.md",
+      "archived_path": "originals/ai-career-acceleration/guides/interviews.md",
+      "bytes": 8668,
+      "sha256": "6306f8fcde840187744303b26af048fb51b30f208cda8bb80557f60647d9931a"
+    },
+    {
+      "original_path": "ai-career-acceleration/guides/job-search.md",
+      "archived_path": "originals/ai-career-acceleration/guides/job-search.md",
+      "bytes": 5593,
+      "sha256": "c969093042d1125d726ae5a72d0a8834b0fa1754cc0598f185c5647e49a852ff"
+    },
+    {
+      "original_path": "ai-career-acceleration/guides/linkedin.md",
+      "archived_path": "originals/ai-career-acceleration/guides/linkedin.md",
+      "bytes": 5967,
+      "sha256": "f8bd0b27e12600948693adf4c83a772475467794f19e6456d235474ac3649249"
+    },
+    {
+      "original_path": "ai-career-acceleration/guides/open-source-workflow.md",
+      "archived_path": "originals/ai-career-acceleration/guides/open-source-workflow.md",
+      "bytes": 5961,
+      "sha256": "97a56044d0eb7788598ca0439528631d4bb58556b35738e6ff2b51d8153b9c39"
+    },
+    {
+      "original_path": "ai-career-acceleration/guides/outreach-and-relationships.md",
+      "archived_path": "originals/ai-career-acceleration/guides/outreach-and-relationships.md",
+      "bytes": 3812,
+      "sha256": "f50a2f781c22f6b7a929c6fc2f92a7c840ec8492539b8aae1b36d2ea2e3e449c"
+    },
+    {
+      "original_path": "ai-career-acceleration/guides/profile-and-resume.md",
+      "archived_path": "originals/ai-career-acceleration/guides/profile-and-resume.md",
+      "bytes": 4820,
+      "sha256": "2366e1df6f5a6b453b4120199a15282449f47b3b0c5050bec4d5f21412d07713"
+    },
+    {
+      "original_path": "ai-career-acceleration/guides/public-project.md",
+      "archived_path": "originals/ai-career-acceleration/guides/public-project.md",
+      "bytes": 4423,
+      "sha256": "32553ad6fddccaad958dd60b6ae2dd40c99badff7c2c63292377bd60ceea10cb"
+    },
+    {
+      "original_path": "ai-career-acceleration/guides/repository-map.md",
+      "archived_path": "originals/ai-career-acceleration/guides/repository-map.md",
+      "bytes": 7388,
+      "sha256": "135087e307f2ce0d15b2aea2504aded4b9cb637909c7d6d8fb2e7c2d64203e5b"
+    },
+    {
+      "original_path": "ai-career-acceleration/guides/research-snapshot.md",
+      "archived_path": "originals/ai-career-acceleration/guides/research-snapshot.md",
+      "bytes": 4927,
+      "sha256": "f8618444bea95a0ba9fb3123d9853c5b0aaf9c8a29afc05ff816f4bf941f4b6a"
+    },
+    {
+      "original_path": "ai-career-acceleration/progress.md",
+      "archived_path": "originals/ai-career-acceleration/progress.md",
+      "bytes": 5070,
+      "sha256": "e61d4304617396924248dbb271c11059f64a4f4a6e9f3bfb8985805d37008fef"
+    },
+    {
+      "original_path": "ai-career-acceleration/schedule.csv",
+      "archived_path": "originals/ai-career-acceleration/schedule.csv",
+      "bytes": 31672,
+      "sha256": "2926c6101842686a2e6fc5fdd531ba722cdbe276f891c070d623fdde4d4589ed"
+    },
+    {
+      "original_path": "ai-career-acceleration/sources.md",
+      "archived_path": "originals/ai-career-acceleration/sources.md",
+      "bytes": 3001,
+      "sha256": "04b6cbc62cebbf711b5b52d2f87bcc450e97386e4e23a85fb436cca40545a244"
+    },
+    {
+      "original_path": "ai-career-acceleration/templates/contribution-checklist.md",
+      "archived_path": "originals/ai-career-acceleration/templates/contribution-checklist.md",
+      "bytes": 1048,
+      "sha256": "74d4b172d245e7812bb43697e03503060d4fa991f436edddcd3e6ff57d222b41"
+    },
+    {
+      "original_path": "ai-career-acceleration/templates/evidence-case-study.md",
+      "archived_path": "originals/ai-career-acceleration/templates/evidence-case-study.md",
+      "bytes": 611,
+      "sha256": "64b476dcae3278c63cec0f0d780eb4c57b2d47435a67b992d39c6202af7e4730"
+    },
+    {
+      "original_path": "ai-career-acceleration/templates/interview-debrief.md",
+      "archived_path": "originals/ai-career-acceleration/templates/interview-debrief.md",
+      "bytes": 567,
+      "sha256": "812bcbec4cc212c2f0d842af267b83bcf6a6a5ae1c3120d6d8e7022da4def5e6"
+    },
+    {
+      "original_path": "ai-career-acceleration/templates/outreach-notes.md",
+      "archived_path": "originals/ai-career-acceleration/templates/outreach-notes.md",
+      "bytes": 524,
+      "sha256": "92983754ecb8dc721d05f516e4188c7aeed8b6404a3325ac7666f85f4b595706"
+    },
+    {
+      "original_path": "ai-career-acceleration/templates/weekly-review.md",
+      "archived_path": "originals/ai-career-acceleration/templates/weekly-review.md",
+      "bytes": 513,
+      "sha256": "faa2073f512ac0b2aa5b4de03e53cdfb97d70aae01f22a3590b07f63074e1c2a"
+    },
+    {
+      "original_path": "ai-career-acceleration/trackers/README.md",
+      "archived_path": "originals/ai-career-acceleration/trackers/README.md",
+      "bytes": 1030,
+      "sha256": "34c800b2a1a4b26eb1c91650491e6ce3c55346ffb478649c88935d8a114a1f28"
+    },
+    {
+      "original_path": "ai-career-acceleration/trackers/applications.csv",
+      "archived_path": "originals/ai-career-acceleration/trackers/applications.csv",
+      "bytes": 155,
+      "sha256": "9d4f2b769cbfdda7f5f33ff7859f9cade987f382ab38a15f0179911c89d8dbea"
+    },
+    {
+      "original_path": "ai-career-acceleration/trackers/contributions.csv",
+      "archived_path": "originals/ai-career-acceleration/trackers/contributions.csv",
+      "bytes": 236,
+      "sha256": "49e5563876d0d683ba0b699c4b2a338108671764b1fbb52c5232f7ee424b7cbb"
+    },
+    {
+      "original_path": "ai-career-acceleration/trackers/conversations.csv",
+      "archived_path": "originals/ai-career-acceleration/trackers/conversations.csv",
+      "bytes": 154,
+      "sha256": "5805d377b8abe177170bde8be8d77921e1106ef08a57e855088eb02980ed74f6"
+    },
+    {
+      "original_path": "ai-career-acceleration/trackers/interviews.csv",
+      "archived_path": "originals/ai-career-acceleration/trackers/interviews.csv",
+      "bytes": 186,
+      "sha256": "e09344a6e64a03435f8f426ad139723fde4b6aef7c39f08e41930879730847ae"
+    },
+    {
+      "original_path": "ai-career-acceleration/trackers/offers.csv",
+      "archived_path": "originals/ai-career-acceleration/trackers/offers.csv",
+      "bytes": 301,
+      "sha256": "c903ac7059a50054ee89cd13e16c717604c958835a2aba627cdabf2bde6a5681"
+    },
+    {
+      "original_path": "ai-career-acceleration/trackers/opportunities.csv",
+      "archived_path": "originals/ai-career-acceleration/trackers/opportunities.csv",
+      "bytes": 355,
+      "sha256": "cb8d8c645807db45690c7ced344f805d8447ae74014757a3c4118e5bc117fd7c"
+    },
+    {
+      "original_path": "ai-career-acceleration/trackers/posts.csv",
+      "archived_path": "originals/ai-career-acceleration/trackers/posts.csv",
+      "bytes": 207,
+      "sha256": "3528713f0238d12886edabb8106a60e8d626e7483bc673fb4c17b7cf5d336ddc"
+    },
+    {
+      "original_path": "ai-career-acceleration/weeks/week-01.md",
+      "archived_path": "originals/ai-career-acceleration/weeks/week-01.md",
+      "bytes": 7536,
+      "sha256": "f372989fb897905b191b82ea4f6a638b4f37e4dc9364f8104b601c9bf55107ad"
+    },
+    {
+      "original_path": "ai-career-acceleration/weeks/week-02.md",
+      "archived_path": "originals/ai-career-acceleration/weeks/week-02.md",
+      "bytes": 7477,
+      "sha256": "8289bb8feb9a2fbed5734201a18ea6d5875571526e32b9f3f00572f3aafa5825"
+    },
+    {
+      "original_path": "ai-career-acceleration/weeks/week-03.md",
+      "archived_path": "originals/ai-career-acceleration/weeks/week-03.md",
+      "bytes": 7316,
+      "sha256": "f35030aebe04b03ec7161605ee0c35399b039f3ec46bf20ecd9ba4452c0a0be6"
+    },
+    {
+      "original_path": "ai-career-acceleration/weeks/week-04.md",
+      "archived_path": "originals/ai-career-acceleration/weeks/week-04.md",
+      "bytes": 7218,
+      "sha256": "be1b03bd07b8de0892b9c1ef7b4c37caf17765701c18f8aec990653077a29209"
+    },
+    {
+      "original_path": "ai-career-acceleration/weeks/week-05.md",
+      "archived_path": "originals/ai-career-acceleration/weeks/week-05.md",
+      "bytes": 7266,
+      "sha256": "21023356eca388db349e53d74f7f8810e07f6caa9b8af02eff8bbeb84a3cddea"
+    },
+    {
+      "original_path": "ai-career-acceleration/weeks/week-06.md",
+      "archived_path": "originals/ai-career-acceleration/weeks/week-06.md",
+      "bytes": 7215,
+      "sha256": "28d2634ec593b6203ae2e3ac860894b31f71ae7cd71bbc600dcba33fb1deb475"
+    },
+    {
+      "original_path": "ai-career-acceleration/weeks/week-07.md",
+      "archived_path": "originals/ai-career-acceleration/weeks/week-07.md",
+      "bytes": 7210,
+      "sha256": "07fce545464fe0fb76a1f6e202dddeb32018871cadddd8ff82d0e52ad612b21e"
+    },
+    {
+      "original_path": "ai-career-acceleration/weeks/week-08.md",
+      "archived_path": "originals/ai-career-acceleration/weeks/week-08.md",
+      "bytes": 7104,
+      "sha256": "97a72b75ebc501adb19ccf8a5c7c70f5fa32c111a53fe7bad434cda6390c39bb"
+    },
+    {
+      "original_path": "ai-career-acceleration/weeks/week-09.md",
+      "archived_path": "originals/ai-career-acceleration/weeks/week-09.md",
+      "bytes": 7143,
+      "sha256": "4eeb32eb108b7a79dcce88f7c90d52290685dca3b99507e7bcb54934cd522657"
+    },
+    {
+      "original_path": "ai-career-acceleration/weeks/week-10.md",
+      "archived_path": "originals/ai-career-acceleration/weeks/week-10.md",
+      "bytes": 7137,
+      "sha256": "fcc995b102fe580af5fba086b16d10b2515f074d3b22c3e024c4d014832f13ca"
+    },
+    {
+      "original_path": "ai-career-acceleration/weeks/week-11.md",
+      "archived_path": "originals/ai-career-acceleration/weeks/week-11.md",
+      "bytes": 7144,
+      "sha256": "39ddc8462f20a4d39be43aa2befb92827f05ff33646acdefa0311c8325cb0618"
+    },
+    {
+      "original_path": "ai-career-acceleration/weeks/week-12.md",
+      "archived_path": "originals/ai-career-acceleration/weeks/week-12.md",
+      "bytes": 7242,
+      "sha256": "88e210780d78b96a5dae6b127ed7d3edde606b9135272cd3322847e2e1ec4779"
+    },
+    {
+      "original_path": "ai-career-acceleration/weeks/week-13.md",
+      "archived_path": "originals/ai-career-acceleration/weeks/week-13.md",
+      "bytes": 7111,
+      "sha256": "36e347af527d72c38ac89d7e564ca7cd0bd7172135926449b600b27721a1cdfe"
+    },
+    {
+      "original_path": "ai-career-acceleration/weeks/week-14.md",
+      "archived_path": "originals/ai-career-acceleration/weeks/week-14.md",
+      "bytes": 7018,
+      "sha256": "a0c21b1bb25de3da59dfb5c35650ac01602b46f7031461415759470ea045f233"
+    },
+    {
+      "original_path": "ai-career-acceleration/weeks/week-15.md",
+      "archived_path": "originals/ai-career-acceleration/weeks/week-15.md",
+      "bytes": 7061,
+      "sha256": "e175dab10d53f2c16b95b8b77b866a40ee5ff1059a22dda4691cd713bb43c191"
+    },
+    {
+      "original_path": "ai-career-acceleration/weeks/week-16.md",
+      "archived_path": "originals/ai-career-acceleration/weeks/week-16.md",
+      "bytes": 7204,
+      "sha256": "56ea3e4692ec3635c4e8792d6ff7fe314e14ffd1495a88eb8239895755ab431d"
+    },
+    {
+      "original_path": "edge-inference-roadmap/00-operating-guide.md",
+      "archived_path": "originals/edge-inference-roadmap/00-operating-guide.md",
+      "bytes": 4586,
+      "sha256": "bcfe12b685f494d898bfe094011da3cef759835a903b2ae0e4c15cd58886721b"
+    },
+    {
+      "original_path": "edge-inference-roadmap/01-setup.md",
+      "archived_path": "originals/edge-inference-roadmap/01-setup.md",
+      "bytes": 4738,
+      "sha256": "896af770377bd785883bf8d6cac0a0ad6e23107c05a142d0e82bef650aac751d"
+    },
+    {
+      "original_path": "edge-inference-roadmap/02-week-index.md",
+      "archived_path": "originals/edge-inference-roadmap/02-week-index.md",
+      "bytes": 2274,
+      "sha256": "b04a28995930755deece94197310b3e3e937f051ddca1d2847f29418835bcd10"
+    },
+    {
+      "original_path": "edge-inference-roadmap/COMPLETE-CURRICULUM.md",
+      "archived_path": "originals/edge-inference-roadmap/COMPLETE-CURRICULUM.md",
+      "bytes": 234354,
+      "sha256": "2f9e77a41a564d1f7db75dff0afa80f5c8fd10e572b44e931ff2f2f4a50d5ae1"
+    },
+    {
+      "original_path": "edge-inference-roadmap/README.md",
+      "archived_path": "originals/edge-inference-roadmap/README.md",
+      "bytes": 3490,
+      "sha256": "248f19b2f4ab9325c9a5c63d90fe06d7fa0731267da60bea9899ab91155f234a"
+    },
+    {
+      "original_path": "edge-inference-roadmap/VALIDATION.json",
+      "archived_path": "originals/edge-inference-roadmap/VALIDATION.json",
+      "bytes": 307,
+      "sha256": "bcb5b4bddca9716c37d2312b3259f6c1e77f9256d9ace2558a19dc735517361a"
+    },
+    {
+      "original_path": "edge-inference-roadmap/guides/android-and-backends.md",
+      "archived_path": "originals/edge-inference-roadmap/guides/android-and-backends.md",
+      "bytes": 4775,
+      "sha256": "1a84eb5bcdd3f4f15c2481cc600c9a548c795474eb06356029c2ae638fd7dd33"
+    },
+    {
+      "original_path": "edge-inference-roadmap/guides/benchmarking.md",
+      "archived_path": "originals/edge-inference-roadmap/guides/benchmarking.md",
+      "bytes": 4927,
+      "sha256": "a50df3543b3a7c897f580faacba2b3c048a03f1d27e92f4e61df8fdf1d9da424"
+    },
+    {
+      "original_path": "edge-inference-roadmap/guides/capstone.md",
+      "archived_path": "originals/edge-inference-roadmap/guides/capstone.md",
+      "bytes": 5298,
+      "sha256": "c6a2ad8714bfe77c689c2cc2d8b9b3dd6bff16032cc85db456b753887adafc72"
+    },
+    {
+      "original_path": "edge-inference-roadmap/guides/cpp-learning-map.md",
+      "archived_path": "originals/edge-inference-roadmap/guides/cpp-learning-map.md",
+      "bytes": 4985,
+      "sha256": "2a4a716a893f852d9db7ce6c263d06b63a42690e6f5a5b3e16bbc6aa0185df0c"
+    },
+    {
+      "original_path": "edge-inference-roadmap/guides/lab-contracts.md",
+      "archived_path": "originals/edge-inference-roadmap/guides/lab-contracts.md",
+      "bytes": 7467,
+      "sha256": "da2d3f654b3af494c76e081323c94fe69acb5004c91cce255f36a9b3710e477f"
+    },
+    {
+      "original_path": "edge-inference-roadmap/guides/milestones.md",
+      "archived_path": "originals/edge-inference-roadmap/guides/milestones.md",
+      "bytes": 3387,
+      "sha256": "2e1e840d2eea91f25bbba804cca38cc5181912e4bc547b3a3da47781069d34c4"
+    },
+    {
+      "original_path": "edge-inference-roadmap/guides/next-eight-weeks.md",
+      "archived_path": "originals/edge-inference-roadmap/guides/next-eight-weeks.md",
+      "bytes": 3485,
+      "sha256": "576391fff219e26c787c911f28e3a7aec489264deeb7ee78d859e345fe5e1bd8"
+    },
+    {
+      "original_path": "edge-inference-roadmap/guides/numerics-and-quantization.md",
+      "archived_path": "originals/edge-inference-roadmap/guides/numerics-and-quantization.md",
+      "bytes": 4621,
+      "sha256": "ae5e986175a59a25066be0df69b8000a86c8f142bfd00a2d44ed1c8a612fbf15"
+    },
+    {
+      "original_path": "edge-inference-roadmap/guides/production-and-debugging.md",
+      "archived_path": "originals/edge-inference-roadmap/guides/production-and-debugging.md",
+      "bytes": 4607,
+      "sha256": "cfc6a0626ac1413498e98fe3d25d484a8c957a9c072e7e62754c589b24cd180f"
+    },
+    {
+      "original_path": "edge-inference-roadmap/progress.md",
+      "archived_path": "originals/edge-inference-roadmap/progress.md",
+      "bytes": 7953,
+      "sha256": "7d82c404cb536b800a42b5ba65b292e2e3e2edd6e0f3c24f69c5a60dc554079b"
+    },
+    {
+      "original_path": "edge-inference-roadmap/resources.md",
+      "archived_path": "originals/edge-inference-roadmap/resources.md",
+      "bytes": 6401,
+      "sha256": "f4bcd6fc06576eb4a3b9fe0e445f09a35e37948a6d7e5b5d232a726ddfaf25a6"
+    },
+    {
+      "original_path": "edge-inference-roadmap/schedule.csv",
+      "archived_path": "originals/edge-inference-roadmap/schedule.csv",
+      "bytes": 47662,
+      "sha256": "da1340c3bec641f3421ce65d3c800e0ab73acc92f965c778abfa6c70cb2b4e35"
+    },
+    {
+      "original_path": "edge-inference-roadmap/templates/daily-log.md",
+      "archived_path": "originals/edge-inference-roadmap/templates/daily-log.md",
+      "bytes": 762,
+      "sha256": "bdefa29f48deee16acc605e4b98f34a24d57c03a32c769f68fba9f9c3532c6b7"
+    },
+    {
+      "original_path": "edge-inference-roadmap/templates/experiment.md",
+      "archived_path": "originals/edge-inference-roadmap/templates/experiment.md",
+      "bytes": 743,
+      "sha256": "c09c0e5014032db64a3a5b4c70c4bc255541560e5c7b1df5f914a6966c40f246"
+    },
+    {
+      "original_path": "edge-inference-roadmap/templates/model-manifest.example.json",
+      "archived_path": "originals/edge-inference-roadmap/templates/model-manifest.example.json",
+      "bytes": 636,
+      "sha256": "72fc51be0c2156c011d53357cf4cb872dab68d60ca74867cb50a159936e323db"
+    },
+    {
+      "original_path": "edge-inference-roadmap/templates/weekly-review.md",
+      "archived_path": "originals/edge-inference-roadmap/templates/weekly-review.md",
+      "bytes": 387,
+      "sha256": "7be9ebbb1e55d30d1ba9ad7f8d02549c891af1aae561d01337d393e082f2ee2c"
+    },
+    {
+      "original_path": "edge-inference-roadmap/weeks/week-01.md",
+      "archived_path": "originals/edge-inference-roadmap/weeks/week-01.md",
+      "bytes": 7057,
+      "sha256": "87a2f5a985e41474ded21a53cb84a41aa39f63761780d9f4e69ec59fb27d7746"
+    },
+    {
+      "original_path": "edge-inference-roadmap/weeks/week-02.md",
+      "archived_path": "originals/edge-inference-roadmap/weeks/week-02.md",
+      "bytes": 6853,
+      "sha256": "2133acddc1bca3a29aa9a78bffdfaf420613cdaa4d4e120f394738a7aa35061f"
+    },
+    {
+      "original_path": "edge-inference-roadmap/weeks/week-03.md",
+      "archived_path": "originals/edge-inference-roadmap/weeks/week-03.md",
+      "bytes": 6558,
+      "sha256": "a7d9b4afd869f4596795bab49287ee18514b08f8dd762cd5ea213dd75e793ff4"
+    },
+    {
+      "original_path": "edge-inference-roadmap/weeks/week-04.md",
+      "archived_path": "originals/edge-inference-roadmap/weeks/week-04.md",
+      "bytes": 6514,
+      "sha256": "9dbe23f7f3519eeeb18714d9239b5116978b8a4afa79c5680317fd58cc9c91b8"
+    },
+    {
+      "original_path": "edge-inference-roadmap/weeks/week-05.md",
+      "archived_path": "originals/edge-inference-roadmap/weeks/week-05.md",
+      "bytes": 6739,
+      "sha256": "2e16c09a09f0bdeabfe144f72cccfe8459f377826877ec11cf690fbfa002f310"
+    },
+    {
+      "original_path": "edge-inference-roadmap/weeks/week-06.md",
+      "archived_path": "originals/edge-inference-roadmap/weeks/week-06.md",
+      "bytes": 6790,
+      "sha256": "9181b869f8b4bf260f331cd95a23a31af349b822c9a91441d785a6f96b901ade"
+    },
+    {
+      "original_path": "edge-inference-roadmap/weeks/week-07.md",
+      "archived_path": "originals/edge-inference-roadmap/weeks/week-07.md",
+      "bytes": 6396,
+      "sha256": "0f9f37fd3f08cc62dd2d8512b1b566419af0f11bc192d6e41718cdc0e607d63c"
+    },
+    {
+      "original_path": "edge-inference-roadmap/weeks/week-08.md",
+      "archived_path": "originals/edge-inference-roadmap/weeks/week-08.md",
+      "bytes": 6671,
+      "sha256": "b9ca58882857f92f4c102535020a1520002830e91bb2af6bc7911d4b86f5b948"
+    },
+    {
+      "original_path": "edge-inference-roadmap/weeks/week-09.md",
+      "archived_path": "originals/edge-inference-roadmap/weeks/week-09.md",
+      "bytes": 6456,
+      "sha256": "c748b8fa812401f08a78cd14b9a697aab08f824e185a4d10ed8c75bafee61f57"
+    },
+    {
+      "original_path": "edge-inference-roadmap/weeks/week-10.md",
+      "archived_path": "originals/edge-inference-roadmap/weeks/week-10.md",
+      "bytes": 6635,
+      "sha256": "388ce9f318301702e1144a829921ad848370cbba8a81c40f823ce540cab1061e"
+    },
+    {
+      "original_path": "edge-inference-roadmap/weeks/week-11.md",
+      "archived_path": "originals/edge-inference-roadmap/weeks/week-11.md",
+      "bytes": 6519,
+      "sha256": "77e2c584d1ea3e5e6c19e6114e052ba607f36da064a07c435d953caf243c927f"
+    },
+    {
+      "original_path": "edge-inference-roadmap/weeks/week-12.md",
+      "archived_path": "originals/edge-inference-roadmap/weeks/week-12.md",
+      "bytes": 6537,
+      "sha256": "5dfbb5e062b8ceb54f6b799eb7a991d3b4e43c34a7278a7027a0abb4f51912ff"
+    },
+    {
+      "original_path": "edge-inference-roadmap/weeks/week-13.md",
+      "archived_path": "originals/edge-inference-roadmap/weeks/week-13.md",
+      "bytes": 6411,
+      "sha256": "042c711402e98489e9ca10008bd9e6f42f9cb6d39a4a74a112b8cf5f23a827b4"
+    },
+    {
+      "original_path": "edge-inference-roadmap/weeks/week-14.md",
+      "archived_path": "originals/edge-inference-roadmap/weeks/week-14.md",
+      "bytes": 6469,
+      "sha256": "b235bf2369611856ae9311308c613886bc56fa9396b05331b3a646f5ed98e559"
+    },
+    {
+      "original_path": "edge-inference-roadmap/weeks/week-15.md",
+      "archived_path": "originals/edge-inference-roadmap/weeks/week-15.md",
+      "bytes": 6428,
+      "sha256": "33bfffa1ca30e0eb9c641a613cfa037afed397f078df57ce9a88610d4ec8d1be"
+    },
+    {
+      "original_path": "edge-inference-roadmap/weeks/week-16.md",
+      "archived_path": "originals/edge-inference-roadmap/weeks/week-16.md",
+      "bytes": 6228,
+      "sha256": "46c58417ab457791e6c59b30184ecb06e92d04ff63d7cb2e68401da8ce9add61"
+    },
+    {
+      "original_path": "edge-inference-roadmap/weeks/week-17.md",
+      "archived_path": "originals/edge-inference-roadmap/weeks/week-17.md",
+      "bytes": 6583,
+      "sha256": "56a07be96523265afde8e82ab9f0d506319b6141c3e628ad6839d895365b8e9f"
+    },
+    {
+      "original_path": "edge-inference-roadmap/weeks/week-18.md",
+      "archived_path": "originals/edge-inference-roadmap/weeks/week-18.md",
+      "bytes": 6202,
+      "sha256": "5f27388a8640cf0ceede41107a9fd691befbe1722ec30cd181f3fa2c443863da"
+    },
+    {
+      "original_path": "edge-inference-roadmap/weeks/week-19.md",
+      "archived_path": "originals/edge-inference-roadmap/weeks/week-19.md",
+      "bytes": 6672,
+      "sha256": "bf16d773d3fcaf0b680e86c1191570e5bef8606cfdd369250d4b85687b981a5f"
+    },
+    {
+      "original_path": "edge-inference-roadmap/weeks/week-20.md",
+      "archived_path": "originals/edge-inference-roadmap/weeks/week-20.md",
+      "bytes": 6645,
+      "sha256": "ced5b3c3c9e04be1562174831807fb17a64f23444e82d1aafb43fc5097db25f0"
+    },
+    {
+      "original_path": "edge-inference-roadmap/weeks/week-21.md",
+      "archived_path": "originals/edge-inference-roadmap/weeks/week-21.md",
+      "bytes": 6425,
+      "sha256": "8edf326ea4e1f6f0a9500567e56eb859fca438dcdb3124414a20037e03d06f45"
+    },
+    {
+      "original_path": "edge-inference-roadmap/weeks/week-22.md",
+      "archived_path": "originals/edge-inference-roadmap/weeks/week-22.md",
+      "bytes": 6476,
+      "sha256": "480cdc9a5d87a9f1a0cb1be1cac80b3ebdde0cd82331957bcb3fad49baef045b"
+    },
+    {
+      "original_path": "edge-inference-roadmap/weeks/week-23.md",
+      "archived_path": "originals/edge-inference-roadmap/weeks/week-23.md",
+      "bytes": 6554,
+      "sha256": "3caa5aeec4abaccf60fd9d25f77b688312daa219268950934e1e07179f9f6fd9"
+    },
+    {
+      "original_path": "edge-inference-roadmap/weeks/week-24.md",
+      "archived_path": "originals/edge-inference-roadmap/weeks/week-24.md",
+      "bytes": 6809,
+      "sha256": "f45993be8174cec7aba7fab3ec6bb844df25352a7930d679ba87bb0ed20e2fd7"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/BENCHMARKING.md",
+      "archived_path": "originals/inference-engineering-curriculum/BENCHMARKING.md",
+      "bytes": 9951,
+      "sha256": "aa8edb4af21fb71fe6ed062e66b04b16f39a1910dec63e3857d0b95a8b73489f"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/CONCEPT_MAP.md",
+      "archived_path": "originals/inference-engineering-curriculum/CONCEPT_MAP.md",
+      "bytes": 5843,
+      "sha256": "94e0c305c98a953efd06ac641fc1f9cd54fde5f346b63c158c73d907e5fd723d"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/EXTENSIONS_AFTER_CORE.md",
+      "archived_path": "originals/inference-engineering-curriculum/EXTENSIONS_AFTER_CORE.md",
+      "bytes": 8262,
+      "sha256": "61efd7be1a1e8c1abbce52a98a0d8dd2685cdf6c0c0e86634ff97533024f142c"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/LAB_ENVIRONMENT.md",
+      "archived_path": "originals/inference-engineering-curriculum/LAB_ENVIRONMENT.md",
+      "bytes": 7658,
+      "sha256": "19cfd39873c362742eb126300ca48020004999b690396eefbb05cb124f458cee"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/LOCAL_RTX_5060TI_TRACK.md",
+      "archived_path": "originals/inference-engineering-curriculum/LOCAL_RTX_5060TI_TRACK.md",
+      "bytes": 5915,
+      "sha256": "de9d82335646c7b48410b543a4b9f566eeafd3131d739c6aa13e183fd0a303bc"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/MODULE_INDEX.md",
+      "archived_path": "originals/inference-engineering-curriculum/MODULE_INDEX.md",
+      "bytes": 8112,
+      "sha256": "57a6082d70635ac09a7207a025f7bc187bf06f9f59c8808d5969475ded95326a"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/OPEN_SOURCE.md",
+      "archived_path": "originals/inference-engineering-curriculum/OPEN_SOURCE.md",
+      "bytes": 9359,
+      "sha256": "1b86cfbfba0cc085d4da2c5459923cfcef8ef23fe20d8e153c1e0114b2c3dcb3"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/README.md",
+      "archived_path": "originals/inference-engineering-curriculum/README.md",
+      "bytes": 8171,
+      "sha256": "15bb132f0fadd44b7d8b4a0f5733cc96e40e435a60d9c270e8b45fb44ebd35bf"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/ROADMAP.md",
+      "archived_path": "originals/inference-engineering-curriculum/ROADMAP.md",
+      "bytes": 8652,
+      "sha256": "e7be01165add33c6217711c98e9a4185bb5b37d6d3be6c8b10b2035d426b1dcd"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/01-inference-system-map.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/01-inference-system-map.md",
+      "bytes": 7448,
+      "sha256": "5cc22ce58a6160e33917e6a9670023a7f6424b06750f389e87098c1b3e612ec9"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/02-reproducible-stack-and-toolchain.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/02-reproducible-stack-and-toolchain.md",
+      "bytes": 7698,
+      "sha256": "bb2c609381007f0a1c24c286432f8b72d7fac3b2f923d46e90f71832abd19251"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/03-tensor-math-shapes-and-einsum.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/03-tensor-math-shapes-and-einsum.md",
+      "bytes": 7006,
+      "sha256": "55e72c473b041f86cf9b2e8d3ee87dc4baae5b233e2915dafd7fd2e9080743a0"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/04-numerical-formats-and-error.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/04-numerical-formats-and-error.md",
+      "bytes": 7506,
+      "sha256": "fbbf749d763776ff78a7e3a93e98237e0375cecfedae980e6136c4837fe303b0"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/05-performance-modeling-and-roofline.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/05-performance-modeling-and-roofline.md",
+      "bytes": 7527,
+      "sha256": "af24fbdb8d0a63ab60b5f668b3919b6364d82e901d5c9d87bbc6be7f74d8f457"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/06-transformer-forward-pass.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/06-transformer-forward-pass.md",
+      "bytes": 7094,
+      "sha256": "4ad1fdc720e0b8ff5cc1eea545d1af1a5504ba41123a196620051d888f0f0c90"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/07-tokenization-embeddings-and-logits.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/07-tokenization-embeddings-and-logits.md",
+      "bytes": 7409,
+      "sha256": "29c00a79dc6aa1b4e29704a112c2587a3d68c7bb1a612a5e9424391fa73d3304"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/08-normalization-residuals-and-stability.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/08-normalization-residuals-and-stability.md",
+      "bytes": 7329,
+      "sha256": "ef79f8e5ede5fa8cc6431e465245647eed8f98a87c07dc6a5a06545ead85593c"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/09-ffn-activations-and-swiglu.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/09-ffn-activations-and-swiglu.md",
+      "bytes": 7328,
+      "sha256": "a4a0fd9cd01a94a6b78dd82a5e96f3214c75a9a40ee227a203dd8383e4fa88ca"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/10-mha-masking-and-causal-attention.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/10-mha-masking-and-causal-attention.md",
+      "bytes": 7823,
+      "sha256": "4269ae432f07cc836c1c77c166e67e046be12f725d6951eab52899c7d076bafb"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/11-positional-encoding-rope-and-scaling.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/11-positional-encoding-rope-and-scaling.md",
+      "bytes": 8172,
+      "sha256": "0b59a21cf2c0ab1cbcc0d855e297c9a91c53d353c0a5cae1522aa8b96f7fc130"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/12-mqa-gqa-and-kv-cache.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/12-mqa-gqa-and-kv-cache.md",
+      "bytes": 7622,
+      "sha256": "40c2b16f51965dd0718b62cd9aad0fa84964a8f4c2f9319798becf2dd8e0eb4c"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/13-mixture-of-experts.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/13-mixture-of-experts.md",
+      "bytes": 8024,
+      "sha256": "08eefd862d76cf5bcf8b00460757f2059e2be634f2cbb8dd174a2952109416c2"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/14-long-context-and-memory.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/14-long-context-and-memory.md",
+      "bytes": 9021,
+      "sha256": "4dd0411ea6630ecb20c41250cc999752d812dabbab966d52f1b23fdc2785deea"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/15-multimodal-inference.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/15-multimodal-inference.md",
+      "bytes": 8498,
+      "sha256": "9eb5a1c1d3e3f63395e1e970e67c78a42b259f977f7f92019c8e0d35c32615b1"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/16-ssm-recurrent-and-hybrid-models.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/16-ssm-recurrent-and-hybrid-models.md",
+      "bytes": 8808,
+      "sha256": "d7633d75d58d81cdd047461f2ac4592a2ac4f0c73381b7935c718c3dad118bbd"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/17-modern-model-architecture-forensics.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/17-modern-model-architecture-forensics.md",
+      "bytes": 8137,
+      "sha256": "3eb7f732264c4261a4a5535ceff35d41eaf37a24d98950a116f68ee5c2c687b2"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/18-quantization-fundamentals.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/18-quantization-fundamentals.md",
+      "bytes": 7364,
+      "sha256": "98f1f0972ed84b72b234ca484c3b018337cc188cd8afe6f6b16b99dc61386563"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/19-calibration-error-metrics-and-evaluation.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/19-calibration-error-metrics-and-evaluation.md",
+      "bytes": 7668,
+      "sha256": "8a142a62dbeae9b1875f133a1e4de4790e89fc0dbc1a78f5849b394e9772a110"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/20-int8-static-dynamic-and-smoothquant.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/20-int8-static-dynamic-and-smoothquant.md",
+      "bytes": 7569,
+      "sha256": "f76e6f2d00187f0bee7f003c4c119a96144cf7c3a3000f7d206663b268099fb8"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/21-weight-only-int8-int4-and-packing.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/21-weight-only-int8-int4-and-packing.md",
+      "bytes": 7048,
+      "sha256": "716d4b64062070e7562056783cb654a26ef2aae8dd0e33c72a76533138fb8d8f"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/22-gptq-second-order-ptq.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/22-gptq-second-order-ptq.md",
+      "bytes": 7175,
+      "sha256": "9eedc33492dc0bbccc9ec9044b97db1f1ad1d8865cba0a854b8f84e2b7f0ee93"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/23-awq-activation-aware-quantization.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/23-awq-activation-aware-quantization.md",
+      "bytes": 6867,
+      "sha256": "68f5a6c7b449b5640a6094bd621f5f51b79a087a4c4aaa7dc92d2f5105974e55"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/24-low-bit-formats-nf4-codebooks-and-gguf.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/24-low-bit-formats-nf4-codebooks-and-gguf.md",
+      "bytes": 6988,
+      "sha256": "9df577e1bd38124a34a0a5db9314a9bf0c36b59e755a28bdf365f937cf20a7c5"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/25-fp8-training-and-inference.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/25-fp8-training-and-inference.md",
+      "bytes": 7210,
+      "sha256": "fe36037d3d4fcad89c1c48143c141d06ba3883221530c3cc27426ae94f910e8d"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/26-microscaling-mxfp4-and-nvfp4.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/26-microscaling-mxfp4-and-nvfp4.md",
+      "bytes": 7373,
+      "sha256": "8c8a16bc2e51420d693008ccdcf06b04772c53eea649693585e2b7a7140a3aea"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/27-kv-cache-quantization.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/27-kv-cache-quantization.md",
+      "bytes": 7363,
+      "sha256": "98e1fe75326f25678fbdde0bee5e80adb8b9fcb91eb4a9ba1fbbdf081b613fb1"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/28-quantized-kernel-and-system-integration.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/28-quantized-kernel-and-system-integration.md",
+      "bytes": 7882,
+      "sha256": "eb13e10ec8d40b6643731a0e04485874fd18a47c9a138bf781f0f3116bd03e22"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/29-attention-io-complexity-and-online-softmax.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/29-attention-io-complexity-and-online-softmax.md",
+      "bytes": 6747,
+      "sha256": "c408526484a243b7ec7518f0d55ce247539ee7c9de0199d844ac6b3bf497456d"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/30-flashattention-evolution.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/30-flashattention-evolution.md",
+      "bytes": 7368,
+      "sha256": "cb9ec1283d2c90b9b6080519ecd97a73f4c0ae3f8ea3186dba2d35ed001171e6"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/31-pagedattention-and-memory-management.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/31-pagedattention-and-memory-management.md",
+      "bytes": 7485,
+      "sha256": "aa71e647cb820735830549f7c00607407171970c3ca3039f8cd640dbc7f56c36"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/32-decoding-sampling-and-logits-processing.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/32-decoding-sampling-and-logits-processing.md",
+      "bytes": 8038,
+      "sha256": "5638d9fee216c4c8aaeaacad4c5f33c4c8f1a16befd2248d80f5b125e14f3312"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/33-speculative-decoding.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/33-speculative-decoding.md",
+      "bytes": 7734,
+      "sha256": "a853643a75cd76a6cc5311e03c4bb7218f4ff08321ccead21bbfc04a3fdc12a4"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/34-continuous-batching-chunked-prefill-and-prefix-cache.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/34-continuous-batching-chunked-prefill-and-prefix-cache.md",
+      "bytes": 7749,
+      "sha256": "bfdfc67340bb0221b1691792752902aba5c753b59cc0203bddee3446eb202d90"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/35-gpu-architecture-and-blackwell.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/35-gpu-architecture-and-blackwell.md",
+      "bytes": 8079,
+      "sha256": "40c1f765cc30edbc41839790d69e8de65d6e916e94a0742250e3105132614774"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/36-cuda-execution-memory-and-streams.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/36-cuda-execution-memory-and-streams.md",
+      "bytes": 8325,
+      "sha256": "88e27254baa07cb3c5ab0e169f004e2e755150932a77f2db5fb8f11986b16c54"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/37-gemm-and-tensor-cores.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/37-gemm-and-tensor-cores.md",
+      "bytes": 8870,
+      "sha256": "6862a4d681df958fe4666b72feec2bc600745ce40d351cec03bef0f1663b8964"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/38-tiling-pipelining-and-fusion.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/38-tiling-pipelining-and-fusion.md",
+      "bytes": 9120,
+      "sha256": "892d6a64ca39c7573f47acd52fd8552356f9b3e082ffdd8f1d43fbacd9b294a5"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/39-triton-kernels.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/39-triton-kernels.md",
+      "bytes": 9272,
+      "sha256": "88db41f10a5c441f16a3253d4e9a8bc43ef52b8b0b3cf58319e519c33c1605ea"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/40-cutlass-and-cute.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/40-cutlass-and-cute.md",
+      "bytes": 9096,
+      "sha256": "bd62d8aaec4324cf16f1beae84accc02ddd19ce1792bfc87f75ab5efe4d3981b"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/41-pytorch-custom-operators.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/41-pytorch-custom-operators.md",
+      "bytes": 7076,
+      "sha256": "77aacfafe4f66d77c9c611707aacd33b231e4c46065883b74947ad038b529424"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/42-compiler-stack-dynamo-inductor-and-triton.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/42-compiler-stack-dynamo-inductor-and-triton.md",
+      "bytes": 7979,
+      "sha256": "0049dfe7e795b7a2c709590ae77b84e27f26b8055e1dafde5e8bf779ea374035"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/43-build-jit-ninja-cmake-and-abi.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/43-build-jit-ninja-cmake-and-abi.md",
+      "bytes": 7794,
+      "sha256": "3a50957ba529ff7981bcfcbf6e316d718e79a0830eb163485b4fb8c7023ac024"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/44-profiling-benchmarking-and-correctness.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/44-profiling-benchmarking-and-correctness.md",
+      "bytes": 7688,
+      "sha256": "b882311c198eed3a3d29c2adcd2988deb985a725f512e171390ac04c9e9b0632"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/45-distributed-inference-parallelism.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/45-distributed-inference-parallelism.md",
+      "bytes": 7416,
+      "sha256": "0f54524d35b3e1183cd89d6c01a987fe4574d10d758f2a864f13e2e4c748602c"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/46-vllm-internals-and-contributions.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/46-vllm-internals-and-contributions.md",
+      "bytes": 7972,
+      "sha256": "93f08b8693a22264beb47d0ed5a6ee9f51a3f76f03394ebfab2c9dc64dd258de"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/47-sglang-internals-and-contributions.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/47-sglang-internals-and-contributions.md",
+      "bytes": 8852,
+      "sha256": "39285d9d9d9926c43bfd7f3082f4f2e989e35d6210432ec450b7ac3d47e01fd0"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/modules/48-llamacpp-ggml-internals-and-contributions.md",
+      "archived_path": "originals/inference-engineering-curriculum/modules/48-llamacpp-ggml-internals-and-contributions.md",
+      "bytes": 9223,
+      "sha256": "ebe1238b3105d9e2ab84168a0830c3f32a57d8b918cd7434dba0a5cf37d001a3"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/projects/01-reference-decoder.md",
+      "archived_path": "originals/inference-engineering-curriculum/projects/01-reference-decoder.md",
+      "bytes": 3873,
+      "sha256": "959e2b0c4340bb872f5bc0ffae473e4c610801cc7643d37facbd44bc6842c626"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/projects/02-quantization-workbench.md",
+      "archived_path": "originals/inference-engineering-curriculum/projects/02-quantization-workbench.md",
+      "bytes": 4114,
+      "sha256": "0d18131eac03aedacfdd3142be381c982576de9b5bf0ea7c43da41ff2a1dcc3a"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/projects/03-kernel-optimization-suite.md",
+      "archived_path": "originals/inference-engineering-curriculum/projects/03-kernel-optimization-suite.md",
+      "bytes": 3993,
+      "sha256": "ed032b7af2ec35e9ff6be1464f83b0f9d3e12c610ba51c128e42644acd583cf6"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/projects/04-mini-serving-engine.md",
+      "archived_path": "originals/inference-engineering-curriculum/projects/04-mini-serving-engine.md",
+      "bytes": 3913,
+      "sha256": "5ba61809f83bef379d4037c1ea209bdb0cc29064bcd8ac48b99cd671d944487d"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/projects/05-modern-model-port.md",
+      "archived_path": "originals/inference-engineering-curriculum/projects/05-modern-model-port.md",
+      "bytes": 3742,
+      "sha256": "4ebd9e8ffa0463f4af86efd2088a432481e81af73daadead5d43add8c4dfbe86"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/projects/06-upstream-contribution.md",
+      "archived_path": "originals/inference-engineering-curriculum/projects/06-upstream-contribution.md",
+      "bytes": 3847,
+      "sha256": "ca558d605acfc3d393d9cead8eb57b854a04a0c90961f82fc1c6e833397a596a"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/projects/README.md",
+      "archived_path": "originals/inference-engineering-curriculum/projects/README.md",
+      "bytes": 1546,
+      "sha256": "953aa8e97f04e3bf14c48235fd9f9cc993334227ff84d97ef49d702e8e1d51da"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/resources/PRIMARY_SOURCES.md",
+      "archived_path": "originals/inference-engineering-curriculum/resources/PRIMARY_SOURCES.md",
+      "bytes": 9613,
+      "sha256": "abc4d44b7116a9f478e1c2476e62c8dd607af668cfe6e84fa89860b4583caffe"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/templates/BENCHMARK_REPORT.md",
+      "archived_path": "originals/inference-engineering-curriculum/templates/BENCHMARK_REPORT.md",
+      "bytes": 1574,
+      "sha256": "10545aeff9c098586931ab3c1cbb819a8cd254ac98bc9934bb60ab67fc6bf7ea"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/templates/PAPER_NOTE.md",
+      "archived_path": "originals/inference-engineering-curriculum/templates/PAPER_NOTE.md",
+      "bytes": 1434,
+      "sha256": "9d7a159d3497d72ff93cd283381b8bfb738de2c3d5e0326b6763731c6a8ceeb8"
+    },
+    {
+      "original_path": "inference-engineering-curriculum/templates/SOURCE_WALK.md",
+      "archived_path": "originals/inference-engineering-curriculum/templates/SOURCE_WALK.md",
+      "bytes": 1544,
+      "sha256": "8b6d51f61ed3c922b1b985dfc0b68c1b15f2b1e42c0755a57f760b185b4d35ba"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/.zip",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/.zip",
+      "bytes": 264933,
+      "sha256": "34242ec1ff439062f9b8d90fa1247eb00a4da40636359269979a7eca0b4397a8"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/ASSESSMENT_AND_PORTFOLIO.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/ASSESSMENT_AND_PORTFOLIO.md",
+      "bytes": 2694,
+      "sha256": "497eceff002138e39ceb372bf533e2a55a2b84dc6eb5d1d0d148b96253626a63"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/BRIDGE_TO_INFERENCE.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/BRIDGE_TO_INFERENCE.md",
+      "bytes": 6086,
+      "sha256": "53dcf022912fd484c07e77272df68c81f1b5aba929295b038ef3b149c362977d"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/CONCEPT_MAP.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/CONCEPT_MAP.md",
+      "bytes": 4083,
+      "sha256": "709f949bd9353a05d576afa7888e916c70e8dcbc60ba9811e7a70af2a7f9f321"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/CONTRIBUTING_TO_PYTORCH.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/CONTRIBUTING_TO_PYTORCH.md",
+      "bytes": 5586,
+      "sha256": "607e52fd5f4af44761a433bdbb3641b105d25115ac520c6e43a58b560216e740"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/FRAMEWORK_GUIDE.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/FRAMEWORK_GUIDE.md",
+      "bytes": 5083,
+      "sha256": "22930f44132baa7643a75cd681ab22fe9ff84e4c1bd9e84fdb4e712291a4b630"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/LAB_ENVIRONMENT.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/LAB_ENVIRONMENT.md",
+      "bytes": 5509,
+      "sha256": "da2f8a9d1311c47a52902619f4d6a59ccae19505835ad6f13e3f12d10e5a95c1"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/MODULE_INDEX.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/MODULE_INDEX.md",
+      "bytes": 8922,
+      "sha256": "3c8341adbf1747ad21bafdad1cbdf5953f3b5e07b12cd4dfcdb101730c86d06d"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/README.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/README.md",
+      "bytes": 11355,
+      "sha256": "d045f4aaade1bec0514702395599cbace66c6994cb0f3500a128f978ffcd853d"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/ROADMAP.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/ROADMAP.md",
+      "bytes": 6658,
+      "sha256": "5613bf07a35289718bd6bb89747022e019b507a1b0949fc753a90e126e55272a"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/WHAT_NOT_TO_MISS.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/WHAT_NOT_TO_MISS.md",
+      "bytes": 4965,
+      "sha256": "453b108b77f6cbd687feb2287f70b316386224155bb7feb7f819c95ff7702c57"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/01-systems-workflow-for-pytorch.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/01-systems-workflow-for-pytorch.md",
+      "bytes": 9583,
+      "sha256": "e6e14a7a50076d7aa3fc3b6704ae7b98a5808b0fd6a2ba2ce268c5e7f4835956"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/02-reproducible-python-cuda-and-packaging.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/02-reproducible-python-cuda-and-packaging.md",
+      "bytes": 9794,
+      "sha256": "b349a99298d50f3c99b41486febaa7e1c0c6c32b4e675fdb3a36389a5c8b6a4d"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/03-python-performance-and-data-model.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/03-python-performance-and-data-model.md",
+      "bytes": 10017,
+      "sha256": "01d6cd079984828bf38b317fc3882ea6b823fd0bf502e5201804b6083bb1eee6"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/04-tensor-math-and-numerical-contracts.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/04-tensor-math-and-numerical-contracts.md",
+      "bytes": 10171,
+      "sha256": "5f8415282721735c4288ebcd7dc0c2e84fd16b9b987569eb858f5dc32dac130d"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/05-testing-debugging-and-benchmark-discipline.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/05-testing-debugging-and-benchmark-discipline.md",
+      "bytes": 10254,
+      "sha256": "303b367b6752e225932e03dbe5e43922655d044daebefe3f97e344c298b80055"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/06-framework-landscape-and-interoperability.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/06-framework-landscape-and-interoperability.md",
+      "bytes": 10256,
+      "sha256": "aacc60df13ce6d871846d5cbb3fd1b699f5f8e2fa45a87e82f5083e12e241d4d"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/07-tensor-storage-views-strides-and-layouts.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/07-tensor-storage-views-strides-and-layouts.md",
+      "bytes": 10192,
+      "sha256": "3d0bbdd0a4b3a841f814201acbc4d91065b76848ffb622bf0ad8810dd2d41eec"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/08-shapes-indexing-broadcasting-and-einsum.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/08-shapes-indexing-broadcasting-and-einsum.md",
+      "bytes": 8827,
+      "sha256": "55d9ddc651d2808132434018d6ba813aa8cf71908251c84584eb1bab283e8e71"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/09-devices-dtypes-memory-and-streams.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/09-devices-dtypes-memory-and-streams.md",
+      "bytes": 9405,
+      "sha256": "e6903415cf751e29daa4afa89b538cab14601ba768069842d6766ffc4c8659a7"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/10-autograd-engine-and-gradient-modes.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/10-autograd-engine-and-gradient-modes.md",
+      "bytes": 9158,
+      "sha256": "097a67732b92a295148f312ed5c7bda72d283a59eb1bfaa7640554aab2bd769a"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/11-modules-parameters-buffers-hooks-and-state.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/11-modules-parameters-buffers-hooks-and-state.md",
+      "bytes": 9640,
+      "sha256": "011524e2523c349cb59350d9e460da7206570a515eb01bee7c6b90cf2a600084"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/12-torch-nn-functional-and-dispatch-semantics.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/12-torch-nn-functional-and-dispatch-semantics.md",
+      "bytes": 9586,
+      "sha256": "4b751763eaa0889edd8305e1c3d80321390c89f06889c4a5562881696a8b434d"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/13-data-pipelines-datasets-and-dataloaders.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/13-data-pipelines-datasets-and-dataloaders.md",
+      "bytes": 9736,
+      "sha256": "af7a94bd8ce101f78d3e4f9e5145a7c74d1efee6242c5d1bf0f6337e6a048e1b"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/14-optimizers-schedulers-and-training-state.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/14-optimizers-schedulers-and-training-state.md",
+      "bytes": 9559,
+      "sha256": "80ee78fbbe7ac5d9e1e31ba12e6baed80ab1034f11c525b3778131a2067c7a36"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/15-randomness-determinism-and-reproducibility.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/15-randomness-determinism-and-reproducibility.md",
+      "bytes": 9130,
+      "sha256": "fdea9dd39c60e0f89d964ef40bb9fc29d04796a0ecf30af55723744ebb432410"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/16-serialization-checkpoints-and-model-artifacts.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/16-serialization-checkpoints-and-model-artifacts.md",
+      "bytes": 9654,
+      "sha256": "e249ff7d4e1337b8571c6bac437b1a04ef8fd6a63baab8ce09be851102b150b7"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/17-torch-func-vmap-and-functional-transforms.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/17-torch-func-vmap-and-functional-transforms.md",
+      "bytes": 8634,
+      "sha256": "23d858bc181c41c4295cbf04fb1d701791492fa27e6adf2f0c8d39b10a1045c5"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/18-pytorch-profiler-memory-and-diagnostics.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/18-pytorch-profiler-memory-and-diagnostics.md",
+      "bytes": 9443,
+      "sha256": "abc368c2c02c55015169ef8a71c150f7175e226dfe968479bbaf6bfb933e6754"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/19-minimal-training-engine.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/19-minimal-training-engine.md",
+      "bytes": 8894,
+      "sha256": "5039bd7091ac881793479452b15435a5cae41c54cfb5083916cf383553b7c1ec"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/20-transformer-in-pytorch.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/20-transformer-in-pytorch.md",
+      "bytes": 8961,
+      "sha256": "27eeb52012296674903365546c5e232f90b5840c39b408a0c18b07bb986214e1"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/21-attention-kv-cache-and-pytorch-bridge.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/21-attention-kv-cache-and-pytorch-bridge.md",
+      "bytes": 9804,
+      "sha256": "7fb06deeaffa8acdbddd53536c411f5a3f12af8691f1f0acd0d330ea1016395d"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/22-automatic-mixed-precision-and-numerical-stability.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/22-automatic-mixed-precision-and-numerical-stability.md",
+      "bytes": 8167,
+      "sha256": "15df06f48e35e241f1d48969aaa7b4918d83607ff756ee9d9bebc7daeadc931e"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/23-torchtune-recipes-and-finetuning.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/23-torchtune-recipes-and-finetuning.md",
+      "bytes": 7827,
+      "sha256": "29959fde2b9979e61c4f7737a30e3f25162e380229e108d9a322b6875482274a"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/24-torchao-quantization-sparsity-and-low-bit.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/24-torchao-quantization-sparsity-and-low-bit.md",
+      "bytes": 8226,
+      "sha256": "2567829cdc0c806e29d1132cd0902e587e924aa41f887e881f16feb9ffa4854f"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/25-torchvision-and-vision-model-engineering.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/25-torchvision-and-vision-model-engineering.md",
+      "bytes": 7921,
+      "sha256": "d9397cd3e75befc0371d743b88683e66c478ea565b9c78d8b43e5be13174fc0d"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/26-torchaudio-and-streaming-audio.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/26-torchaudio-and-streaming-audio.md",
+      "bytes": 7926,
+      "sha256": "03e20cf39930e93f03aed6bf43f16a841679e2f2cc5f4a9c270b2d98b1d0ca83"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/27-multimodal-models-and-processors.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/27-multimodal-models-and-processors.md",
+      "bytes": 7787,
+      "sha256": "8d110827114c3dc8f733a191f4798283619a72d6859fa16ae8972bd114b6b517"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/28-evaluation-quality-and-experiment-tracking.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/28-evaluation-quality-and-experiment-tracking.md",
+      "bytes": 7754,
+      "sha256": "6d1f873f40e2ba7a1d1a9ff11a32d7d4a702ad3cc9e50c8b2bd676571ac49a05"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/29-fx-graphs-and-program-transforms.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/29-fx-graphs-and-program-transforms.md",
+      "bytes": 8062,
+      "sha256": "70cb985a95cd139e057d2b2626390b46ac1cb83c46e8b32e8a29cac7a22dd64d"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/30-torch-compile-and-torchdynamo.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/30-torch-compile-and-torchdynamo.md",
+      "bytes": 8384,
+      "sha256": "2bcc64d9d94c538b1830d75aeb1222362d3b70eb1877076c86160915bd9722ff"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/31-guards-recompilation-and-dynamic-shapes.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/31-guards-recompilation-and-dynamic-shapes.md",
+      "bytes": 8181,
+      "sha256": "8c5d669262e9f9ae706d49ee0ebdbe0741a40436b096f72727774d9be7aaea6d"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/32-aotautograd-functionalization-and-autograd-graphs.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/32-aotautograd-functionalization-and-autograd-graphs.md",
+      "bytes": 8442,
+      "sha256": "8376a5884c8f17f90bf3a3c6d705ffde0c453bd464fc6a3fd110a07a3e10e574"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/33-torchinductor-fusion-scheduling-and-codegen.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/33-torchinductor-fusion-scheduling-and-codegen.md",
+      "bytes": 8499,
+      "sha256": "735c0f8b7284c6fb414acbba5ecd89f3428f0be07dab87ec793087028c249dd6"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/34-triton-with-pytorch.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/34-triton-with-pytorch.md",
+      "bytes": 8183,
+      "sha256": "5a2f6b457e530912ce182481540c819a7995b05acc1c8d2ca0afe6835db0833f"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/35-torch-library-and-python-custom-ops.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/35-torch-library-and-python-custom-ops.md",
+      "bytes": 8384,
+      "sha256": "cb0ad49814088865f170370f4654609910e8ab7afa417509b8a8f999d0924444"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/36-cpp-cuda-custom-operators.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/36-cpp-cuda-custom-operators.md",
+      "bytes": 8529,
+      "sha256": "f4de5eb924dbcbb386829d7e47ff2eb8bd77c0083b3108a5a074a697d5d8dcff"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/37-dispatcher-aten-and-autograd-in-cpp.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/37-dispatcher-aten-and-autograd-in-cpp.md",
+      "bytes": 8664,
+      "sha256": "36b85d4e2e3499abf419ff30d3e2db4dc361e80112eb0d1bd98b69975570c226"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/38-native-functions-codegen-and-operator-lifecycle.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/38-native-functions-codegen-and-operator-lifecycle.md",
+      "bytes": 8875,
+      "sha256": "6598751676b7abceae5329d088560186ae820f8dd2bb1edbdb100ab963ffb94b"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/39-libtorch-and-cpp-frontend.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/39-libtorch-and-cpp-frontend.md",
+      "bytes": 8728,
+      "sha256": "9befc3257c9200741ef40a1c647fad960182deadcde4f7330f7064fed1973b8a"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/40-build-jit-ninja-cmake-and-abi.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/40-build-jit-ninja-cmake-and-abi.md",
+      "bytes": 9451,
+      "sha256": "509f300da62382e801b1b28cc858cb15367f4e261150f43b70a20ac7f9d3adcd"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/41-cuda-graphs-memory-and-framework-integration.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/41-cuda-graphs-memory-and-framework-integration.md",
+      "bytes": 9183,
+      "sha256": "02bb17f4a9b5c2582b874f44c6d9d8bb092a4b7a6541d01e7f374515283bdf1f"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/42-compiler-debugging-minimization-and-regression.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/42-compiler-debugging-minimization-and-regression.md",
+      "bytes": 9253,
+      "sha256": "a3564b91fe46bcb714f5daba084bcbf00b2ac59e97806689530a87008ab425e3"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/43-process-groups-collectives-and-torch-distributed.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/43-process-groups-collectives-and-torch-distributed.md",
+      "bytes": 8071,
+      "sha256": "eecf29fd1717f5ccc61789c06ac843da837ae6f42c5582d6effde8a67370e7bc"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/44-distributed-data-parallel.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/44-distributed-data-parallel.md",
+      "bytes": 7751,
+      "sha256": "bd9802558ba0fd382a71fe88f499e5ce4880fdf74522ee64c5f64763be606fd4"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/45-fsdp-and-sharded-training.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/45-fsdp-and-sharded-training.md",
+      "bytes": 8005,
+      "sha256": "6ae4c8684e6a5a8ddf56124430008eb0cae536e87d0bf79617451e9cf01f8e28"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/46-devicemesh-and-dtensor.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/46-devicemesh-and-dtensor.md",
+      "bytes": 7716,
+      "sha256": "a5a63457408f1a67719d2ed3e740fa4dc315b304c747c8703e3d24783340bd11"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/47-tensor-pipeline-context-and-expert-parallelism.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/47-tensor-pipeline-context-and-expert-parallelism.md",
+      "bytes": 8390,
+      "sha256": "2c3f063478adc506b5b889463486dd68d5026c0ccf7a7d2dd205f0cd78174797"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/48-distributed-checkpointing-elasticity-and-reliability.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/48-distributed-checkpointing-elasticity-and-reliability.md",
+      "bytes": 7872,
+      "sha256": "a73101dfe90aa1cd513469ccdcfa8613898adfc90d3d2041ec29be3ad94b135b"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/49-nccl-topology-profiling-and-communication-performance.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/49-nccl-topology-profiling-and-communication-performance.md",
+      "bytes": 7712,
+      "sha256": "c7a723ab582398c0226b475df042f6703ec7bbc74a0450bc4e87483fe0b7e371"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/50-training-serving-parallelism-bridge.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/50-training-serving-parallelism-bridge.md",
+      "bytes": 8384,
+      "sha256": "3d67fa58901ec3fdcea678e8b367fe99fe416da755e705818170cc8179917f96"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/51-torch-export-and-program-capture.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/51-torch-export-and-program-capture.md",
+      "bytes": 8218,
+      "sha256": "08a5f609ec49cfb653efe75a8608be987427f2dd871c86c69dab3c33f2d039a7"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/52-onnx-export-and-onnx-ir.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/52-onnx-export-and-onnx-ir.md",
+      "bytes": 7613,
+      "sha256": "b4a5cfe48ade109eb4e01a88b2f143432908a58fc18043e4f9b54802d5440751"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/53-onnx-runtime-and-execution-providers.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/53-onnx-runtime-and-execution-providers.md",
+      "bytes": 7752,
+      "sha256": "9a6362f05c60234de8942fb583e0c24716153e07b52fc8e69de9e40c9480e321"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/54-tensorrt-and-torch-tensorrt.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/54-tensorrt-and-torch-tensorrt.md",
+      "bytes": 8306,
+      "sha256": "c5202ac56f4cfef64de57794e54f8bb1c16c6b3e8c075b0790debc7199bd19d7"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/55-tensorrt-llm-and-runtime-integration.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/55-tensorrt-llm-and-runtime-integration.md",
+      "bytes": 8986,
+      "sha256": "75920af1a83a4b83dbf2eb5646be7419cf757f100bb629f3bb804be2d91b024e"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/56-aotinductor-packaging-and-native-deployment.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/56-aotinductor-packaging-and-native-deployment.md",
+      "bytes": 8228,
+      "sha256": "e32240803ee2fcb427a197c3f701ff2a14f857d4193b4c957eba65b695d938f1"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/57-executorch-architecture-exir-and-backends.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/57-executorch-architecture-exir-and-backends.md",
+      "bytes": 8291,
+      "sha256": "1dee51f90d01664cbb8e4750fc0cb52d1e0dab2246cedd2fc0a9c4f74ff50b37"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/58-executorch-quantization-delegates-and-edge.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/58-executorch-quantization-delegates-and-edge.md",
+      "bytes": 8651,
+      "sha256": "d8488a297a880f93ed734d76675d63c21bda09b12e2441aa6a0c1b920a313627"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/59-pytorch-source-tree-and-build.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/59-pytorch-source-tree-and-build.md",
+      "bytes": 8631,
+      "sha256": "73e9d534ff1a9f917a3584ccf3b5d1c436a34f32ae779c3e8affec66a7ee5ac0"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/60-pytorch-testing-ci-and-triage.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/60-pytorch-testing-ci-and-triage.md",
+      "bytes": 7994,
+      "sha256": "e5c1ffda5a17fbcb261b2d891abfb28daa3b43465be03031e63f406368e056ec"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/61-pytorch-contribution-engineering.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/61-pytorch-contribution-engineering.md",
+      "bytes": 8375,
+      "sha256": "5ea905af1ad212bab3153f03104e20a0b4406c7eba498ae7bb3a02655bfac23e"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/modules/62-pytorch-ecosystem-capstone.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/modules/62-pytorch-ecosystem-capstone.md",
+      "bytes": 8582,
+      "sha256": "384dd26d46b2d27a306a03e1f26826525c88c0b82e892edec1be6bd5636864c1"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/projects/01-tensor-and-autograd-microscope.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/projects/01-tensor-and-autograd-microscope.md",
+      "bytes": 2119,
+      "sha256": "5164a490a5ec3feeed5d0881c4bf8be79c935a3352a116562fb84b67617850da"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/projects/02-pytorch-transformer-engine.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/projects/02-pytorch-transformer-engine.md",
+      "bytes": 2083,
+      "sha256": "60f94fdffdaefea4611efb9472191cb961496cb2529a73afeaaa10d0fd468df8"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/projects/03-optimization-workbench.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/projects/03-optimization-workbench.md",
+      "bytes": 1773,
+      "sha256": "02536ff725ce4dc3d900b7895dcd7d53a308b8f71fe34cb52c89bcf7694f939f"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/projects/04-distributed-systems-dossier.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/projects/04-distributed-systems-dossier.md",
+      "bytes": 1732,
+      "sha256": "4f8184e4f958f83407c41437b93f68bd5f8d2164eaf915201bd81e4e8d2714ee"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/projects/05-portable-deployment-dossier.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/projects/05-portable-deployment-dossier.md",
+      "bytes": 1707,
+      "sha256": "69b41721230a0f506af560056a767b76a003eb6a3c91486d0368c916e93b7b0f"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/projects/06-upstream-ready-contribution.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/projects/06-upstream-ready-contribution.md",
+      "bytes": 1774,
+      "sha256": "8ba43d03efb60c79498b79d8b107602f2060232410fabd8447b6996bd5848705"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/projects/README.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/projects/README.md",
+      "bytes": 1813,
+      "sha256": "2b34942f9c1d1ba02c1bd493a60a49b7118c9410d372950d0eceb5b2608f2286"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/resources/PRIMARY_SOURCES.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/resources/PRIMARY_SOURCES.md",
+      "bytes": 4810,
+      "sha256": "2b1e306eb5952ca19cd0f89f3a414ba1ee0b5a648dd5574f2eb0d376199a464d"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/resources/SOURCE_ATLAS.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/resources/SOURCE_ATLAS.md",
+      "bytes": 33774,
+      "sha256": "15bfff896c075438de0bc253aa348721fc6ce54a7263574456b359941619db18"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/templates/BENCHMARK_REPORT.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/templates/BENCHMARK_REPORT.md",
+      "bytes": 1254,
+      "sha256": "c8bde5c669a910347c6e1c8886a74f6228cc0bb4c51483c607e9a12b77dbbf4f"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/templates/EXPORT_REPORT.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/templates/EXPORT_REPORT.md",
+      "bytes": 1289,
+      "sha256": "4f5125565ae3234b7afa8833fa1e8f080629fe9919675dc8dc74115b02bad7b1"
+    },
+    {
+      "original_path": "pytorch-systems-and-deployment-curriculum/templates/PYTORCH_SOURCE_WALK.md",
+      "archived_path": "originals/pytorch-systems-and-deployment-curriculum/templates/PYTORCH_SOURCE_WALK.md",
+      "bytes": 967,
+      "sha256": "70c32fad60418e3dd404cd478c9e1044fc20bb1e723fdf722ca6dde54f43b5fa"
+    }
+  ]
+}
